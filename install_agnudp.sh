@@ -19,7 +19,7 @@ DOMAIN="www.bing.com"
 PROTOCOL="udp"
 
 # UDP PORT
-UDP_PORT=":12000"
+UDP_PORT=":48000"
 
 # OBFS
 OBFS="RataApestosa20023"
