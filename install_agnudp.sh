@@ -22,10 +22,10 @@ PROTOCOL="udp"
 UDP_PORT=":17600"
 
 # OBFS
-OBFS="RataApestosa20023"
+OBFS="RataApestosadeMierda"
 
 # PASSWORDS
-PASSWORD="                                                                                                                                                                                                  @NormanSiempreRobandoErsUnaRataDeMierdaPutoDeMierdaYaCompraTusVPSNoSeasRataApestosaDeMierda@De_Parte_Del_DiabloLucifer_Ers_Un_Puto                                                                                                                                                                       "
+PASSWORD="                            👺🔥💥😱🚨⭐❤️⚠️☢️@NormanSiempreRobandoErsUnaRataDeMierdaPutoDeMierdaYaCompraTusVPSNoSeasRataApestosaDeMierda@De_Parte_Del_DiabloLucifer_Ers_Un_Puto👺🔥💥🥸⚡😂                                              "
 
 # Basename of this script
 SCRIPT_NAME="$(basename "$0")"
